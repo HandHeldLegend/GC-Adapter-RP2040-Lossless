@@ -1,0 +1,12 @@
+#define ADAPTER_BUTTON_1  11
+#define ADAPTER_BUTTON_2  -1
+#define ADAPTER_RGB_COUNT 1
+#define ADAPTER_PORT_COUNT 4
+
+#define ADAPTER_MANUFACTURER "InputIntegrity"
+#define ADAPTER_PRODUCT "Lossless"
+#define ADAPTER_STRING "GCL"
+
+#define ADAPTER_FIRMWARE_VERSION 0x0008
+#define ADAPTER_SETTINGS_VERSION 0x0003
+#define ADAPTER_WEBUSB_URL "handheldlegend.github.io/gcp"
